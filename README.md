@@ -13,6 +13,13 @@ I am an AI and Data Science student passionate about building useful projects an
 I’m always eager to contribute, learn, and grow in collaborative environments.
 ---
 
+
+## 🛠️ Technologies & Tools  
+**Languages:** Python, JavaScript, Rust  
+**Frameworks & Tools:** AWS, React, Node.js, MongoDB, Express, Firebase, Docker, Selenium
+
+---
+
 ## 🚀 Projects  
 
 ### PandainUniv — Placement Data Aggregator  
@@ -31,11 +38,4 @@ I’m always eager to contribute, learn, and grow in collaborative environments.
 - Utilized PyTorch, Hugging Face Transformers, OpenCV, and FFmpeg for video preprocessing and model training.
 
 ---
-
-## 🛠️ Technologies & Tools  
-**Languages:** Python, JavaScript, Rust  
-**Frameworks & Tools:** AWS, React, Node.js, MongoDB, Express, Firebase, Docker, Selenium
-
----
-
 *Thanks for visiting my profile!* ✨
