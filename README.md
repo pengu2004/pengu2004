@@ -1,17 +1,8 @@
 # Hi there 👋 I’m Tejus Mathew (pengu2004)
 
----
 
-## 📫 Contact Me  
-- **Email:** tejusria02@gmail.com  
-- **LinkedIn:** [linkedin.com/in/tejusmathew](https://linkedin.com/in/tejusmathew)  
-- **GitHub:** [github.com/pengu2004](https://github.com/pengu2004)
+📫 **Contact:** [Email](mailto:tejusria02@gmail.com) | [LinkedIn](https://linkedin.com/in/tejusmathew) | [GitHub](https://github.com/pengu2004)
 
----
-## 👨‍🎓 About Me  
-I am an AI and Data Science student passionate about building useful projects and continuously learning new technologies.  
-I’m always eager to contribute, learn, and grow in collaborative environments.
----
 
 
 ## 🛠️ Technologies & Tools  
