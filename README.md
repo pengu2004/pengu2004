@@ -4,4 +4,4 @@
  **Contact:** [Email](mailto:tejusria02@gmail.com) | [LinkedIn](https://linkedin.com/in/tejusmathew) | [GitHub](https://github.com/pengu2004)
 
 
-I like learning
+regretting life desicions in zsh
