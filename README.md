@@ -1,1 +1,2 @@
-I’m an aspiring Machine Learning & Networks enthusiast passionate about building intelligent systems and understanding complex networks.
+An **aspiring Machine Learning enthusiast** with a passion for building **self-reliant systems** that can learn, adapt, and operate autonomously. I love tackling challenging problems with AI and data-driven solutions.
+
