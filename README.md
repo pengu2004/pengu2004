@@ -1,1 +1,1 @@
-An **aspiring Machine Learning enthusiast** with a passion for building **self-reliant systems** that can learn, adapt, and operate autonomously. 
+Just a person trying to learn, break and make. 
